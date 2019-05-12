@@ -1,0 +1,13 @@
+This is the Era of data. Data is looked at as the next gold. Mining data for insights helps companies understand their customers better and provide them with more simpler personalized services and products.
+
+Data Visualization :
+
+Now what does one do to look at the enormous amount of data that is being collected through various channels like mobile apps, internet, websites, surveys, cookies etc. Looking at these various kinds of data by creating meaningful views is called data visualization. There are many tools and techniques which allow one to look at different kinds of data and create meaning full information from it. Now that information is created, we need to visualize it in form of tables, charts, graphs, trends etc. Tools like Tableau, Spotfire, Qlikview help in building these meaning full views which will help build graphical representation of the data and be able to use those visualizations for deriving meaningful insights.
+
+Data Analysis :
+
+Creating meaningful information out of terabytes and zeta bytes of data to comprehend and understand what are the common themes, what kind of likes, dislikes, interests, trends the data can provide is called Data analysis in simple terms. This can also be termed as data mining loosely.
+
+There are a number of technology solutions which help us to pull information into preferred formats and storage places, systemically run through tonnes of data and identify anamolies, create analogies, meaningful insights. Seggregating data into meaningful data sets and studying them to create useful information is called data analysis. A person who does this work is known as data analyst
+
+A data analyst will need help of data routines/programs, data visualization tools to perform their job.
