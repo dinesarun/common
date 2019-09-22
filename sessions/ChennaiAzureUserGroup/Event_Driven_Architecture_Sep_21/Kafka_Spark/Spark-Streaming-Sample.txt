@@ -1,0 +1,9 @@
+
+spark-shell.cmd --jars "D:\\Spark\\jars\\*"
+
+:load "D:\\Spark\\spark-2.4.4-bin-hadoop2.7\\examples\\src\\main\scala\\org\\apache\\spark\\examples\\streaming\\NetworkWordCount.scala"
+
+NetworkWordCount.main(Array("127.0.0.1","9999"))
+
+nc -lk 9999
+
