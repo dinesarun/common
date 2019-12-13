@@ -7,3 +7,15 @@ NetworkWordCount.main(Array("127.0.0.1","9999"))
 
 nc -lk 9999
 
+
+Dashboard links
+Kafka Dashboard - https://webinar.boldbi.com/bi/en-us/dashboards/cc8257fd-f914-4f8e-ad73-2faf63f48a5d/practice/kafka%20logs%20demo
+
+Spark Streaming Dashboard - https://webinar.boldbi.com/bi/en-us/dashboards/bf3c3851-ffff-4f13-a006-0d4c914240e3/practice/spark-streaming-azure-sql-demo
+
+Scala references
+1. https://spark.apache.org/docs/2.2.0/api/java/index.html?org/apache/spark/streaming/dstream/DStream.html (words)
+2. https://spark.apache.org/docs/latest/streaming-programming-guide.html#a-quick-example
+3. https://bigdataprogrammers.com/how-to-execute-scala-script-in-spark-submit-without-creating-jar/
+4. https://community.cloudera.com/t5/Support-Questions/Error-Only-one-SparkContext-may-be-running-in-this-JVM/m-p/143607
+5. https://stackoverflow.com/questions/24772799/for-each-rdd-in-a-dstream-how-do-i-convert-this-to-an-array-or-some-other-typica
