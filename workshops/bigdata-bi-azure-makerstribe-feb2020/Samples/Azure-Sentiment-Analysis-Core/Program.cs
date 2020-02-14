@@ -10,7 +10,7 @@ namespace Azure_Sentiment_Analysis_Core
         static void Main(string[] args)
         {
             //accessKey retrieved from cognitive service created in azure.
-            string accessKey = "f3481f9fce694a8381a3002a33207a50";
+            string accessKey = "***";
             string uri = "https://westcentralus.api.cognitive.microsoft.com/text/analytics/v2.1/sentiment";
             string[] lines = File.ReadAllLines(@"D:\GitHub\common\workshops\bigdata-bi-azure-makerstribe-feb2020\Samples\Azure-Sentiment-Analysis-Core\Software_review.csv");
             string[] result = new string[lines.Length];
