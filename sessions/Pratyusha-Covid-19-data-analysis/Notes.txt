@@ -1,1 +1,7 @@
 "Learn to love the problem first so that you can love the solution later"
+
+"Go far Machine Learning only if it is Big Data"
+
+
+1. Create a overall Power BI dashboard and include forecast in it. Also tell how that forecast works, which cannot be relied for all the cases.
+2. Pick some open source Data Profiling tool and do an analysis with GitHub data.
