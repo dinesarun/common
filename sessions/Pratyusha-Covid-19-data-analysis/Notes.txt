@@ -5,3 +5,5 @@
 
 1. Create a overall Power BI dashboard and include forecast in it. Also tell how that forecast works, which cannot be relied for all the cases.
 2. Pick some open source Data Profiling tool and do an analysis with GitHub data.
+
+https://www.youtube.com/watch?v=ZYNG0Y4H4po
