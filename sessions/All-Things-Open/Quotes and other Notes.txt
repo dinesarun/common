@@ -1,0 +1,4 @@
+"More data combined and shared in your business, more you know about your customers, better you will be able to improve your business"
+
+"Go for Machine Learning only if it is Big Data" - Because more you train, more perfect your model is going to be. (A line chart with x-axis - Perfect Results, y-axis - Model trained with data).
+
