@@ -1,0 +1,15 @@
+Data Storytelling
+1. This is a Graphical chart.
+2. Animated moving charts.
+3. Power BI - video I have with running values.
+
+- Kate's video about storytelling - Points for Saturday talk
+- image example for categorical and continuous data. Also check how it differs from dimensions and measures.
+- Kate's this one - https://www.linkedin.com/posts/kate-strachnyi-data_data-datavisualization-dashboard-activity-6686669427439616000-birl
+- A point about Data Democratization. Due to this, making others understand the data via storytelling.
+- Brand storytelling - https://medium.com/@sariazout/from-product-market-fit-to-language-market-fit-a-new-brand-storytelling-framework-7e0a58b20295
+- Video storytelling - check hello meets link for pleasing content - https://www.linkedin.com/posts/hellomeets_brandmanagement-youtube-marketing-activity-6688998023021826048-53jj
+- Kate's other posts 
+-> https://www.linkedin.com/posts/kate-strachnyi-data_linkedinlive-data-dataquality-activity-6679827408167714817--DAZ,
+-> https://www.linkedin.com/posts/kate-strachnyi-data_how-the-can-i-get-all-my-data-sources-activity-6681601877672644608-h7rV,
+-> https://www.linkedin.com/posts/kate-strachnyi-data_linkedinlive-dataliteracy-data-activity-6681280502063775744-5WI-
