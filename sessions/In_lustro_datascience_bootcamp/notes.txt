@@ -1,0 +1,23 @@
+Add in user guide:
+- Allow preview feature in VS 2019.
+- Exception - used by another process - close in Excel.
+
+Feedbacks:
+- Introduction about machine learning - add more. Like academic level more, enterprise level less.
+- Overall ML, AI platfom. large level - ML.net how included.
+- More with industry examples. Example centric more - acronyms based - helps memory aid.
+- Solution engineer - more domain based. Engineer - more tech based. GAP. Citizen data scientist - reduces gap, provide solution better and faster.
+- Questions slide about deciding ML pattern.
+- Resources slide to refer more at last.
+-
+
+My Points
+- Take examples shared in analytics group.. (legos - raw data - organized - insights)
+- Broken image can confuse the model.
+- ten + 1 = tenty one. After training with numbers (twenty + 1 = twenty-one.....) - AI model training also needs some tweaks like this.
+- Valuable candidate - Take responsibility, demonstrate. Is your college project really validated by a company or did you tried or involved 100% of your own?
+- Points by Dr.Simha - https://www.youtube.com/watch?v=rd4julZE5VM and screenshots saved.
+- Citizen data scientist - https://www.linkedin.com/posts/prekshak_gartner-ai-ml-activity-6767358078590443520-NGfm/
+- A layman example for low-code / no-code - Visual Basic in cloud. Compare it with C++ for the full tech. 
+- Data profiling.
+- Citizen Data scientist - Master at translating a business use case into a Data Science model - https://towardsdatascience.com/you-should-master-data-analytics-first-before-becoming-a-data-scientist-5dbceaea9d3d
