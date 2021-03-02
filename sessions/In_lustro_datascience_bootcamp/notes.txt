@@ -12,10 +12,8 @@ Feedbacks:
 -
 
 My Points
-- Take examples shared in analytics group.. (legos - raw data - organized - insights)
-- Broken image can confuse the model.
-- ten + 1 = tenty one. After training with numbers (twenty + 1 = twenty-one.....) - AI model training also needs some tweaks like this.
-- Valuable candidate - Take responsibility, demonstrate. Is your college project really validated by a company or did you tried or involved 100% of your own?
+- LinkedIn post - Broken image can confuse the model.
+- Slack image - ten + 1 = tenty one. After training with numbers (twenty + 1 = twenty-one.....) - AI model training also needs some tweaks like this.
 - Points by Dr.Simha - https://www.youtube.com/watch?v=rd4julZE5VM and screenshots saved.
 - Citizen data scientist - https://www.linkedin.com/posts/prekshak_gartner-ai-ml-activity-6767358078590443520-NGfm/
 - A layman example for low-code / no-code - Visual Basic in cloud. Compare it with C++ for the full tech. 
