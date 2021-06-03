@@ -1,0 +1,10 @@
+- What is stage? - Location where data is stored in before it gets stored into a table.
+- What is materialized view? - Views are virtual tables gets executed upon query expression. A materialized view is a physical copy / snapshot of the base table. It helps for faster retrieval which includes joins, aggregation columns.
+- Scaling policy while configuring the warehouse? - Standard will focus on minimizing queue. Ecomomy will fully utilize current cluster before adding new.
+- What is the use of File formats tab in Snowflake UI? While loading files into tables, specify format. In file format created, parameters will be defined.
+- What is Stream? - Capture CDC and make it available to query.
+- What is Task? - Execute SQL statements (stored procedure) to transform data captured by stream and move it into destination tables.
+- What is Pipes? - Continous data ingestion as soon as data is in stage.
+- Is Snowflake compatible with Schema on read? - Partially via Views.
+- What is util_db in default list? - Initial account setup files.
+- UDFs in Snowflake? - Extend system to perform new operations other than present inbuilt. (SQL, JS)
